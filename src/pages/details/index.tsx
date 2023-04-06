@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { API_KEY } from "../../config/api_key";
 import Cast from "./cast";
 import { Container } from "./components";
+import React from "react";
 
 export default function Details(){
 

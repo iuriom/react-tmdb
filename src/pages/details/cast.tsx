@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { API_KEY } from "../../config/api_key";
 import { CastList, Container, CastItem } from "./components";
+import React from "react";
 
 export default function Cast(){
 

@@ -10,3 +10,19 @@ body {
   color: white;
   padding: 2rem;
 }
+.paper{
+  display:flex;
+align-items: center;
+justify-content: center;
+}
+.custom-button {
+  background-color: purple;
+  color: white;
+  border-radius: 10px;
+}
+.custom-caixa{
+
+  display:flex;
+align-items: center;
+justify-content: center;
+}

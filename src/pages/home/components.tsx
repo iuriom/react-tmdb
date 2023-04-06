@@ -8,6 +8,16 @@ export const Container = styled.div`
     
     
 `
+export const Containera = styled.div`
+    h1 {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center
+    }   
+    
+    
+`
 
 export const MovieList = styled.ul`
     list-style: none;
